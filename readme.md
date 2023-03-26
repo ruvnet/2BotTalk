@@ -2,6 +2,9 @@
 
 An interactive, command-driven AI-powered bot duo that collaborates to generate, refine, and execute code, perform web searches, import GitHub repositories, manage files, and install Python libraries, providing a dynamic and engaging code development experience.
 
+## Creators
+Finn C. and rUv
+
 ## Features
 
 - Code generation and refinement
